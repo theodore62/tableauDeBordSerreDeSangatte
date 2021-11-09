@@ -1,0 +1,176 @@
+composer
+composer init
+composer update
+composer
+composer init
+composer update
+php artisan
+php artisan make:migrate
+php artisan make:migration
+php artisan 
+php artisan db:
+php artisan migrate:statue
+php artisan migrate
+php artisan migrate:status
+php artisan db:seed
+php artisan migrate:status
+php artisan db:seed
+ionic serve
+php artisan make:migration
+php artisan 
+php artisan db:
+php artisan migrate:statue
+php artisan migrate
+php artisan migrate:status
+php artisan db:seed
+npm i -g @ionic/cli
+ionic cordova run android -l
+ionic serve
+ionic cordova run android -l
+ionic serve
+ionic cordova build android --prod --release
+jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore my-release-key.jks platforms/android/app/build/outputs/apk/release/app-release-unsigned.apk my-alias
+ionic cordova run android -l
+ionic cordova run android -l
+ionic cordova run android -l
+ionic cordova run android -l
+ionic cordova run android -l
+ionic cordova run android -l
+ionic cordova run android -l
+ionic cordova build android --prod --release
+jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore my-release-key.jks platforms/android/app/build/outputs/apk/release/app-release-unsigned.apk my-alias
+ionic generate
+ionic serve
+ionic serve
+ionic
+ionic generate
+ionic generate
+ionic generate
+ionic generate
+ionic serve
+ionic serve
+ionic serve
+ionic generate
+ionic serve
+ionic serve
+ls
+rm {B127AC17-373B-4F5C-B8C2-D5AAD2787CF9}\
+sudo rm {B127AC17-373B-4F5C-B8C2-D5AAD2787CF9}\
+ionic serve
+ionic serve
+ionic serve
+ionic cordova plugin add cordova-plugin-googlemaps
+npm install --save @ionic-native/core@latest @ionic-native/google-maps@latest
+ionic serve3
+ionic serve
+ionic serve3
+ionic serve
+ionic cordova run android -l
+ionic serve
+ionic serve
+ionic cordova run android -l
+ionic serve
+ionic cordova run android -l
+ionic cordova run android -l
+ionic cordova run android -l
+ionic cordova run android -l
+ionic serve
+ionic cordova run android -l
+ionic cordova run android -l
+ionic cordova run android -l
+ionic cordova run android -l
+npm install
+ionic cordova run android -l
+npm i -g @ionic/cli
+ionic cordova plugin add cordova-plugin-geolocation
+npm install @ionic-native/geolocation
+ionic cordova plugin add cordova-plugin-nativegeocoder
+npm install @ionic-native/native-geocoder
+$ ionic cordova platform add android
+ionic cordova platform add android
+ionic cordova build android
+ionic serve
+ionic cordova run android -l
+ionic cordova build android
+ionic serve
+ionic cordova run android -l
+https://github.com/theodore62/serres_sangattes.git
+clone https://github.com/theodore62/serres_sangattes.git
+git clone https://github.com/theodore62/serres_sangattes.git
+ionic cordova run android -l
+https://github.com/theodore62/serres_sangattes.git
+clone https://github.com/theodore62/serres_sangattes.git
+git clone https://github.com/theodore62/serres_sangattes.git
+npm install @ionic-native/core
+ionic info
+ionic serve -verbose
+ionic serve
+ ionic info
+ ionic version
+ionic cordova plugin add cordova-plugin-googlemaps
+npm install --save @ionic-native/core@latest @ionic-native/google-maps@latest
+ ionic info
+ionic cordova run browser
+ionic cordova run android
+npm install @ionic-native/core
+ionic info
+ionic serve -verbose
+ionic serve
+ionic cordova run android -l
+ionic serve
+ionic cordova run android -l
+ionic serve
+ionic cordova run browser
+ionic cordova run browser
+npm install @ionic-native/core
+ionic serve -verbose
+ionic serve
+ionic serve
+o
+n
+ionic cordova run android
+ionic info
+ionic cordova platform rm browser
+ionic cordova run android -l
+ionic serve
+ionic cordova run android
+ionic info
+ionic cordova platform rm browser
+ionic serve
+ionic cordova run android -l
+ionic serve
+ionic generate
+ionic cordova run android -l
+ionic serve
+ionic serve
+ionic cordova run android -l
+ionic serve
+ionic start
+ionic serve
+ionic generate
+ionic cordova run android -l
+ionic serve
+ionic cordova run android -l
+ionic cordova build android --prod --release
+jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore my-release-key.jks platforms/android/app/build/o
+jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore my-release-key.jks platforms/android/app/build/outputs/apk/release/app-release-unsigned.apk my-alias
+ionic serve
+ionic cordova build android --prod --release
+jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore my-release-key.jks platforms/android/app/build/o
+jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore my-release-key.jks platforms/android/app/build/outputs/apk/release/app-release-unsigned.apk my-alias
+ionic serve
+jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore my-release-key.jks platforms/android/app/build/outputs/apk/release/app-release-unsigned.apk my-alias
+ionic serve
+ionic serve
+ionic serve
+ionic serve
+ionic serve
+ionic cordova build android --prod --release
+jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore my-release-key.jks platforms/android/app/build/outputs/apk/release/app-release-unsigned.apk my-alias
+jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore my-release-key.jks platforms/android/app/build/outputs/apk/release/app-release-unsigned.apk my-alias
+composer global require laravel/installer
+laravel new example-app
+laravel new tableau_De_Bord
+ionic serve
+ionic cordova build android --prod --release
+jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore my-release-key.jks platforms/android/app/build/outputs/apk/release/app-release-unsigned.apk my-alias

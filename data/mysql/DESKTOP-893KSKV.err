@@ -1,0 +1,7 @@
+2021-08-30T22:02:37.227367Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2021-08-30T22:02:37.386051Z 0 [Warning] InnoDB: New log files created, LSN=45790
+2021-08-30T22:02:37.417417Z 0 [Warning] InnoDB: Creating foreign key constraint system tables.
+2021-08-30T22:02:37.478309Z 0 [Warning] No existing UUID has been found, so we assume that this is the first time that this server has been started. Generating a new UUID: fcc434af-09dd-11ec-8ad4-b42e99ea6923.
+2021-08-30T22:02:37.482799Z 0 [Warning] Gtid table is not ready to be used. Table 'mysql.gtid_executed' cannot be opened.
+2021-08-30T22:02:39.289441Z 0 [Warning] CA certificate ca.pem is self signed.
+2021-08-30T22:02:39.528650Z 1 [Warning] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
