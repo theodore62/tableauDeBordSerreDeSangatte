@@ -1,0 +1,139 @@
+@import "bootstrap";
+html {
+    background-image: url(../../public/storage/acceuil.jpg) !important;
+    background-repeat: no-repeat !important;
+    width: 100%;
+    height: 100%;
+}
+
+footer,
+nav {
+    background-color: #3c6080 !important;
+    opacity: 0.70;
+}
+
+body {
+    background-image: url(../../public/storage/acceuil.jpg) !important;
+    background-repeat: no-repeat;
+}
+
+.tableau {
+    margin-top: 4em;
+}
+
+.body {
+    justify-content: center;
+    text-align: center;
+}
+
+.titre {
+    font-family: "Font";
+    margin-top: 2em;
+}
+
+.alert {
+    opacity: 0.70;
+}
+
+.icon {
+    width: 5%;
+    height: 5%;
+}
+
+.icons {
+    font-size: 3em;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    margin-top: 4em;
+    margin-bottom: 2em;
+}
+
+h2 {
+    font-family: "Font";
+    font-size: 3em;
+    color: white !important;
+}
+
+label {
+    font-family: "Font";
+    color: white !important;
+}
+
+.nav-link {
+    font-family: "Font";
+    color: white !important;
+}
+
+.table,
+#modifier {
+    font-family: "Font";
+    color: white;
+}
+
+.affichageDonnees {
+    overflow-y: scroll;
+    height: 500px;
+    width: 100%;
+    /* border: #000000 1px solid; */
+}
+
+.uk-container {
+    background-color: #3e4960;
+    opacity: 0.8;
+}
+
+button,
+th,
+h2,
+#modifier {
+    font-family: "Font";
+    /* background-color: #3c6080 !important; */
+}
+
+input,
+select {
+    opacity: 0.33;
+}
+
+#nom,
+#varieter,
+#couleur,
+#conditionnement,
+#prix,
+#categorie {
+    margin-left: 3em;
+}
+
+.uk-subnav,
+.uk-subnav-pill {
+    font-family: "Font";
+    color: white !important;
+}
+
+.uk-subnav-pill>*>:first-child {
+    color: silver !important;
+}
+
+.uk-subnav-pill>.uk-active>a {
+    background-color: white !important;
+    color: #3c6080 !important;
+}
+
+.modal-dialog,
+.modal-content {
+    opacity: 0.90;
+    max-width: 800px !important;
+    background-color: #3c6080 !important;
+}
+
+@font-face {
+    font-family: 'Font';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../fonts/ink-free-normal.ttf');
+}
