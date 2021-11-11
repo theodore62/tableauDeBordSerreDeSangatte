@@ -19,4 +19,8 @@
 # localhost name resolution is handled within DNS itself.
 #	127.0.0.1       localhost
 #	::1             localhost
-127.0.0.1      tableau_de_bord.test #laragon magic!   
+127.0.0.1      css.test             #laragon magic!   
+127.0.0.1      fonts.test           #laragon magic!   
+127.0.0.1      images.test          #laragon magic!   
+127.0.0.1      js.test              #laragon magic!   
+127.0.0.1      storage.test         #laragon magic!   

@@ -282,6 +282,6 @@ class __TwigTemplate_06495d49f8e944aaffdf6d21b02061359cafb57cec89aaa2f8d263b8c1e
 
     public function getSourceContext()
     {
-        return new Source("", "display/results/checkbox_and_links.twig", "C:\\laragon\\etc\\apps\\phpMyAdmin\\templates\\display\\results\\checkbox_and_links.twig");
+        return new Source("", "display/results/checkbox_and_links.twig", "C:\\Users\\punky\\Documents\\GitHub\\tableauDeBordSerreDeSangatte\\etc\\apps\\phpMyAdmin\\templates\\display\\results\\checkbox_and_links.twig");
     }
 }

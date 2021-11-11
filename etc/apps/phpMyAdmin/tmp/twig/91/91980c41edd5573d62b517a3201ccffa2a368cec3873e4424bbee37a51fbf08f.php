@@ -78,6 +78,6 @@ class __TwigTemplate_951f03dafeb3f625d9c130a4a4afc95ab90dd0337a2fbb5375604a991e6
 
     public function getSourceContext()
     {
-        return new Source("", "display/results/comment_for_row.twig", "C:\\laragon\\etc\\apps\\phpMyAdmin\\templates\\display\\results\\comment_for_row.twig");
+        return new Source("", "display/results/comment_for_row.twig", "C:\\Users\\punky\\Documents\\GitHub\\tableauDeBordSerreDeSangatte\\etc\\apps\\phpMyAdmin\\templates\\display\\results\\comment_for_row.twig");
     }
 }

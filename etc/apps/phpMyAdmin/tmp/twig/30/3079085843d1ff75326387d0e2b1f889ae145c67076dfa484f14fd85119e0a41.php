@@ -72,6 +72,6 @@ class __TwigTemplate_518ac8fbd2cdba04ad949b899e620f00e44b583bbf2bcfed8b57039ffbd
 
     public function getSourceContext()
     {
-        return new Source("", "display/results/null_display.twig", "C:\\laragon\\etc\\apps\\phpMyAdmin\\templates\\display\\results\\null_display.twig");
+        return new Source("", "display/results/null_display.twig", "C:\\Users\\punky\\Documents\\GitHub\\tableauDeBordSerreDeSangatte\\etc\\apps\\phpMyAdmin\\templates\\display\\results\\null_display.twig");
     }
 }

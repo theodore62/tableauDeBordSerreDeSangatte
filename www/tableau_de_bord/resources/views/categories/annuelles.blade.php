@@ -7,7 +7,7 @@
                 <th scope="col">conditionnement</th>
                 <th scope="col">prix</th>
                 <th scope="col">catégorie</th>
-                <th scope="col">disponibilité</th>
+                <th scope="col">disponibilitée</th>
             </tr>
         </thead>
         <tbody>

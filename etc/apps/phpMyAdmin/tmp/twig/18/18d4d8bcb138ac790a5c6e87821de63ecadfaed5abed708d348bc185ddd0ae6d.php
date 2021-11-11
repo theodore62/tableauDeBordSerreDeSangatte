@@ -108,6 +108,6 @@ class __TwigTemplate_d97005628d09bc6b73aea0a86157803d1df9a8f9e1a8a73bef9a66f77d9
 
     public function getSourceContext()
     {
-        return new Source("", "config/form_display/fieldset_top.twig", "C:\\laragon\\etc\\apps\\phpMyAdmin\\templates\\config\\form_display\\fieldset_top.twig");
+        return new Source("", "config/form_display/fieldset_top.twig", "C:\\Users\\punky\\Documents\\GitHub\\tableauDeBordSerreDeSangatte\\etc\\apps\\phpMyAdmin\\templates\\config\\form_display\\fieldset_top.twig");
     }
 }

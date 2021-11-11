@@ -24,7 +24,7 @@
     @endif
     <h2 class="titre">Ajouter une plante</h2>
     <div class="container">
-        <div class=" uk-overlay  uk-container uk-container-large uk-margin-small ">
+        <div class=" uk-overlay  uk-container uk-container-small uk-margin-small ">
             <div class="uk-container d-flex justify-content-around">
                 <div class="uk-container-xlarge uk-overlay uk-overlay-secondary">
                     <form action="{{ route('ajouterPlante.store') }}" method="POST" enctype="multipart/form-data">
@@ -40,10 +40,10 @@
                             </div>
                         </div>
                         <div class="row mb-3">
-                            <label for="varieter" class="col-sm-2 col-form-label">Variété</label>
+                            <label for="varieter" class="col-sm-2 col-form-label">Variétée</label>
                             <div class="col-sm-10">
                                 <input type="text" class="form-control  @error('varieter') is-invalid @enderror"
-                                    name="varieter" id="varieter" placeholder="Variété de la plante "
+                                    name="varieter" id="varieter" placeholder="Variétée de la plante "
                                     value="{{ old('varieter') }}">
                                 @error('varieter')
                                     <div class="invalid-feedback">{{ $message }}</div>
@@ -83,7 +83,7 @@
                             </div>
                         </div>
                         <div class="row mb-3">
-                            <label for="prix" class="col-sm-2 col-form-label">Catégorie</label>
+                            <label for="prix" class="col-sm-2 col-form-label">Catégories</label>
                             <div class="col-sm-10">
                                 <select class="form-select " aria-label="categorie de la plante" @error('categorie')
                                     is-invalid @enderror name="categorie" id="categorie" value="{{ old('categorie') }}">
@@ -101,8 +101,6 @@
                         </div>
                         <button type="submit" class="btn btn-outline-light">Valider</button>
                     </form>
-
-
                 </div>
             </div>
         </div>

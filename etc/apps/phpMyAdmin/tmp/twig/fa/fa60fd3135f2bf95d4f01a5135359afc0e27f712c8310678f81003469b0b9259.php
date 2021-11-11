@@ -289,6 +289,6 @@ class __TwigTemplate_387bd12503a0637b72dc5cdf15956a0f57b18bf826925dd1fe06a707e0b
 
     public function getSourceContext()
     {
-        return new Source("", "database/structure/body_for_table_summary.twig", "C:\\laragon\\etc\\apps\\phpMyAdmin\\templates\\database\\structure\\body_for_table_summary.twig");
+        return new Source("", "database/structure/body_for_table_summary.twig", "C:\\Users\\punky\\Documents\\GitHub\\tableauDeBordSerreDeSangatte\\etc\\apps\\phpMyAdmin\\templates\\database\\structure\\body_for_table_summary.twig");
     }
 }

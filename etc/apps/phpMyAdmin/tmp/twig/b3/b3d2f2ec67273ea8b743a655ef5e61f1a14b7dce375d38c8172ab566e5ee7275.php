@@ -74,6 +74,6 @@ class __TwigTemplate_01d5b9e05897c2d3d65da9dd510a23ed2785ff0f7383443a22a06ceb3a8
 
     public function getSourceContext()
     {
-        return new Source("", "config/form_display/tabs_top.twig", "C:\\laragon\\etc\\apps\\phpMyAdmin\\templates\\config\\form_display\\tabs_top.twig");
+        return new Source("", "config/form_display/tabs_top.twig", "C:\\Users\\punky\\Documents\\GitHub\\tableauDeBordSerreDeSangatte\\etc\\apps\\phpMyAdmin\\templates\\config\\form_display\\tabs_top.twig");
     }
 }

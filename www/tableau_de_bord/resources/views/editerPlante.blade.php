@@ -50,7 +50,7 @@
                             <thead>
                                 <tr>
                                     <th scope="col">nom</th>
-                                    <th scope="col">varieter</th>
+                                    <th scope="col">varietée</th>
                                     <th scope="col">couleur</th>
                                     <th scope="col">conditionnement</th>
                                     <th scope="col">prix</th>
@@ -131,7 +131,7 @@
                                 <div class="form-group">
                                     <label>Varieter de la plante:</label>
                                     <input type="text" class="form-control  @error('varieter') is-invalid @enderror"
-                                        name="varieter" id="varieterUpdate" placeholder="la variété de la plante"
+                                        name="varieter" id="varieterUpdate" placeholder="la variétée de la plante"
                                         value="{{ old('varieter') }}">
                                     @error('varieter')
                                         <div class="invalid-feedback">{{ $message }}</div>
@@ -166,7 +166,7 @@
                                 </div>
                                 <div class="form-group">
                                     <label>Catégorie</label>
-                                    <select class="form-select " aria-label="categorie de la plante" @error('categorie')
+                                    <select class="form-select " aria-label="Categories de la plante" @error('categorie')
                                         is-invalid @enderror name="categorie" id="categorieUpdate"
                                         value="{{ old('categorie') }}">
                                         <option selected>categorie de la plante</option>

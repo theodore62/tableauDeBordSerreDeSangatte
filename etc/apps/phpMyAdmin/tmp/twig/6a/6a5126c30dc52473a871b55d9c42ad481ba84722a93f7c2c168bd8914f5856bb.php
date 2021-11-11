@@ -223,6 +223,6 @@ class __TwigTemplate_171f81ac5e134428df4736ddb719d8fb54fd5af99b4cd0a681dfb721bcd
 
     public function getSourceContext()
     {
-        return new Source("", "header.twig", "C:\\laragon\\etc\\apps\\phpMyAdmin\\templates\\header.twig");
+        return new Source("", "header.twig", "C:\\Users\\punky\\Documents\\GitHub\\tableauDeBordSerreDeSangatte\\etc\\apps\\phpMyAdmin\\templates\\header.twig");
     }
 }

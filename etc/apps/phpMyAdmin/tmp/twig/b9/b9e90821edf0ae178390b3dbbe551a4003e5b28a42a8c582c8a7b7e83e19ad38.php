@@ -87,6 +87,6 @@ class __TwigTemplate_ea70021922e0df078252b932367f7dd7edbcb6443ff6d8f3c88c1b5fa99
 
     public function getSourceContext()
     {
-        return new Source("", "display/results/sort_by_key.twig", "C:\\laragon\\etc\\apps\\phpMyAdmin\\templates\\display\\results\\sort_by_key.twig");
+        return new Source("", "display/results/sort_by_key.twig", "C:\\Users\\punky\\Documents\\GitHub\\tableauDeBordSerreDeSangatte\\etc\\apps\\phpMyAdmin\\templates\\display\\results\\sort_by_key.twig");
     }
 }

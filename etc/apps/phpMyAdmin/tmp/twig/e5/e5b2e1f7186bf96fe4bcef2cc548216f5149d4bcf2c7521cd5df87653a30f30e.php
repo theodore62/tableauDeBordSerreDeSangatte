@@ -190,6 +190,6 @@ class __TwigTemplate_21dac0ec323447e79a509db379b7ffa9de3c5cc4849528f0ea579c0dcd9
 
     public function getSourceContext()
     {
-        return new Source("", "database/structure/check_all_tables.twig", "C:\\laragon\\etc\\apps\\phpMyAdmin\\templates\\database\\structure\\check_all_tables.twig");
+        return new Source("", "database/structure/check_all_tables.twig", "C:\\Users\\punky\\Documents\\GitHub\\tableauDeBordSerreDeSangatte\\etc\\apps\\phpMyAdmin\\templates\\database\\structure\\check_all_tables.twig");
     }
 }

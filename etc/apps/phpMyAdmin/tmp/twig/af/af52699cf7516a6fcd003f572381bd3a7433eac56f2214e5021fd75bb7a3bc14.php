@@ -105,6 +105,6 @@ class __TwigTemplate_89cf76ba25d585de68648c554ebfc4b965bcc31c124b6594c2bd5037398
 
     public function getSourceContext()
     {
-        return new Source("", "top_menu.twig", "C:\\laragon\\etc\\apps\\phpMyAdmin\\templates\\top_menu.twig");
+        return new Source("", "top_menu.twig", "C:\\Users\\punky\\Documents\\GitHub\\tableauDeBordSerreDeSangatte\\etc\\apps\\phpMyAdmin\\templates\\top_menu.twig");
     }
 }

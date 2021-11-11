@@ -123,7 +123,7 @@
                                 <div class="form-group">
                                     <label>Varieter de la plante:</label>
                                     <input type="text" class="form-control  @error('varieter') is-invalid @enderror"
-                                        name="varieter" id="varieterUpdate" placeholder="la variété de la plante"
+                                        name="varieter" id="varieterUpdate" placeholder="la variétée de la plante"
                                         value="{{ old('varieter') }}">
                                     @error('varieter')
                                         <div class="invalid-feedback">{{ $message }}</div>

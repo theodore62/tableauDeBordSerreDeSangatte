@@ -108,6 +108,6 @@ class __TwigTemplate_79a34e20042e1b64f1d5739febc323278f60bfbf139f855d9565ab2acb7
 
     public function getSourceContext()
     {
-        return new Source("", "database/structure/index.twig", "C:\\laragon\\etc\\apps\\phpMyAdmin\\templates\\database\\structure\\index.twig");
+        return new Source("", "database/structure/index.twig", "C:\\Users\\punky\\Documents\\GitHub\\tableauDeBordSerreDeSangatte\\etc\\apps\\phpMyAdmin\\templates\\database\\structure\\index.twig");
     }
 }

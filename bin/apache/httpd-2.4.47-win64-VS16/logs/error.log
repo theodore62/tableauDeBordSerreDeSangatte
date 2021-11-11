@@ -220,3 +220,38 @@ Apache server interrupted...
 Apache server interrupted...
 021] [mpm_winnt:notice] [pid 18412:tid 648] AH00354: Child: Starting 64 worker threads.
 [Tue Nov 09 14:23:12.812811 2021] [mpm_winnt:notice] [pid 18676:tid 548] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Nov 09 20:05:57.207977 2021] [core:warn] [pid 8832:tid 540] AH00098: pid file C:/Users/punky/Documents/GitHub/tableauDeBordSerreDeSangatte/bin/apache/httpd-2.4.47-win64-VS16/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Nov 09 20:05:58.127132 2021] [mpm_winnt:notice] [pid 8832:tid 540] AH00455: Apache/2.4.47 (Win64) OpenSSL/1.1.1k PHP/7.4.19 configured -- resuming normal operations
+[Tue Nov 09 20:05:58.127132 2021] [mpm_winnt:notice] [pid 8832:tid 540] AH00456: Apache Lounge VS16 Server built: Apr 24 2021 11:08:47
+[Tue Nov 09 20:05:58.127132 2021] [core:notice] [pid 8832:tid 540] AH00094: Command line: 'C:\\Users\\punky\\Documents\\GitHub\\tableauDeBordSerreDeSangatte\\bin\\apache\\httpd-2.4.47-win64-VS16\\bin\\httpd -d C:/Users/punky/Documents/GitHub/tableauDeBordSerreDeSangatte/bin/apache/httpd-2.4.47-win64-VS16'
+[Tue Nov 09 20:05:58.127132 2021] [mpm_winnt:notice] [pid 8832:tid 540] AH00418: Parent: Created child process 10972
+[Tue Nov 09 20:05:59.753785 2021] [mpm_winnt:notice] [pid 10972:tid 488] AH00354: Child: Starting 64 worker threads.
+[Tue Nov 09 20:07:27.954833 2021] [mpm_winnt:crit] [pid 10972:tid 488] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Tue Nov 09 20:08:07.692763 2021] [core:warn] [pid 5560:tid 512] AH00098: pid file C:/Users/punky/Documents/GitHub/tableauDeBordSerreDeSangatte/bin/apache/httpd-2.4.47-win64-VS16/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Nov 09 20:08:07.785670 2021] [mpm_winnt:notice] [pid 5560:tid 512] AH00455: Apache/2.4.47 (Win64) OpenSSL/1.1.1k PHP/7.4.19 configured -- resuming normal operations
+[Tue Nov 09 20:08:07.785670 2021] [mpm_winnt:notice] [pid 5560:tid 512] AH00456: Apache Lounge VS16 Server built: Apr 24 2021 11:08:47
+[Tue Nov 09 20:08:07.785670 2021] [core:notice] [pid 5560:tid 512] AH00094: Command line: 'C:\\Users\\punky\\Documents\\GitHub\\tableauDeBordSerreDeSangatte\\bin\\apache\\httpd-2.4.47-win64-VS16\\bin\\httpd -d C:/Users/punky/Documents/GitHub/tableauDeBordSerreDeSangatte/bin/apache/httpd-2.4.47-win64-VS16'
+[Tue Nov 09 20:08:07.793706 2021] [mpm_winnt:notice] [pid 5560:tid 512] AH00418: Parent: Created child process 10552
+[Tue Nov 09 20:08:09.590370 2021] [mpm_winnt:notice] [pid 10552:tid 616] AH00354: Child: Starting 64 worker threads.
+[Tue Nov 09 21:30:58.845873 2021] [core:warn] [pid 8024:tid 500] AH00098: pid file C:/Users/punky/Documents/GitHub/tableauDeBordSerreDeSangatte/bin/apache/httpd-2.4.47-win64-VS16/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Nov 09 21:30:59.220902 2021] [mpm_winnt:notice] [pid 8024:tid 500] AH00455: Apache/2.4.47 (Win64) OpenSSL/1.1.1k PHP/7.4.19 configured -- resuming normal operations
+[Tue Nov 09 21:30:59.220902 2021] [mpm_winnt:notice] [pid 8024:tid 500] AH00456: Apache Lounge VS16 Server built: Apr 24 2021 11:08:47
+[Tue Nov 09 21:30:59.220902 2021] [core:notice] [pid 8024:tid 500] AH00094: Command line: 'C:\\Users\\punky\\Documents\\GitHub\\tableauDeBordSerreDeSangatte\\bin\\apache\\httpd-2.4.47-win64-VS16\\bin\\httpd -d C:/Users/punky/Documents/GitHub/tableauDeBordSerreDeSangatte/bin/apache/httpd-2.4.47-win64-VS16'
+[Tue Nov 09 21:30:59.220902 2021] [mpm_winnt:notice] [pid 8024:tid 500] AH00418: Parent: Created child process 3532
+[Tue Nov 09 21:31:03.338281 2021] [mpm_winnt:notice] [pid 3532:tid 616] AH00354: Child: Starting 64 worker threads.
+[Thu Nov 11 09:41:02.516089 2021] [mpm_winnt:crit] [pid 3532:tid 616] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Thu Nov 11 09:41:04.559607 2021] [mpm_winnt:notice] [pid 3532:tid 616] AH00364: Child: All worker threads have exited.
+[Thu Nov 11 09:41:28.679718 2021] [core:warn] [pid 7920:tid 560] AH00098: pid file C:/Users/punky/Documents/GitHub/tableauDeBordSerreDeSangatte/bin/apache/httpd-2.4.47-win64-VS16/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Nov 11 09:41:29.033804 2021] [mpm_winnt:notice] [pid 7920:tid 560] AH00455: Apache/2.4.47 (Win64) OpenSSL/1.1.1k PHP/7.4.19 configured -- resuming normal operations
+[Thu Nov 11 09:41:29.033804 2021] [mpm_winnt:notice] [pid 7920:tid 560] AH00456: Apache Lounge VS16 Server built: Apr 24 2021 11:08:47
+[Thu Nov 11 09:41:29.033804 2021] [core:notice] [pid 7920:tid 560] AH00094: Command line: 'C:\\Users\\punky\\Documents\\GitHub\\tableauDeBordSerreDeSangatte\\bin\\apache\\httpd-2.4.47-win64-VS16\\bin\\httpd -d C:/Users/punky/Documents/GitHub/tableauDeBordSerreDeSangatte/bin/apache/httpd-2.4.47-win64-VS16'
+[Thu Nov 11 09:41:29.041805 2021] [mpm_winnt:notice] [pid 7920:tid 560] AH00418: Parent: Created child process 5044
+[Thu Nov 11 09:41:30.205103 2021] [mpm_winnt:notice] [pid 5044:tid 620] AH00354: Child: Starting 64 worker threads.
+[Thu Nov 11 11:41:12.653951 2021] [mpm_winnt:crit] [pid 5044:tid 620] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Thu Nov 11 11:41:14.683229 2021] [mpm_winnt:notice] [pid 5044:tid 620] AH00364: Child: All worker threads have exited.
+[Thu Nov 11 11:41:31.684608 2021] [core:warn] [pid 3276:tid 524] AH00098: pid file C:/Users/punky/Documents/GitHub/tableauDeBordSerreDeSangatte/bin/apache/httpd-2.4.47-win64-VS16/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Nov 11 11:41:31.872121 2021] [mpm_winnt:notice] [pid 3276:tid 524] AH00455: Apache/2.4.47 (Win64) OpenSSL/1.1.1k PHP/7.4.19 configured -- resuming normal operations
+[Thu Nov 11 11:41:31.872121 2021] [mpm_winnt:notice] [pid 3276:tid 524] AH00456: Apache Lounge VS16 Server built: Apr 24 2021 11:08:47
+[Thu Nov 11 11:41:31.872121 2021] [core:notice] [pid 3276:tid 524] AH00094: Command line: 'C:\\Users\\punky\\Documents\\GitHub\\tableauDeBordSerreDeSangatte\\bin\\apache\\httpd-2.4.47-win64-VS16\\bin\\httpd -d C:/Users/punky/Documents/GitHub/tableauDeBordSerreDeSangatte/bin/apache/httpd-2.4.47-win64-VS16'
+[Thu Nov 11 11:41:31.887746 2021] [mpm_winnt:notice] [pid 3276:tid 524] AH00418: Parent: Created child process 5148
+[Thu Nov 11 11:41:34.511592 2021] [mpm_winnt:notice] [pid 5148:tid 616] AH00354: Child: Starting 64 worker threads.
