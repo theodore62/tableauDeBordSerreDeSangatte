@@ -555,13 +555,13 @@
 					<value name="Flags" type="dword" data="00000000"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
 					<value name="GuiArgs" type="string" data=" /icon &quot;%CMDER_ROOT%\icons\cmder.ico&quot;"/>
-					<value name="Cmd1" type="string" data="&gt; -cur_console:d:C:\laragon\www cmd /k &quot;%ConEmuDir%\..\init.bat&quot;"/>
+					<value name="Cmd1" type="string" data="&gt; -cur_console:d:C:\Users\manuh\Documents\GitHub\tableauDeBordSerreDeSangatte\www\tableau_De_Bord\public cmd /k &quot;%ConEmuDir%\..\init.bat&quot;"/>
 					<value name="Active" type="long" data="1"/>
 					<value name="Count" type="long" data="1"/>
 				</key>
 				<key name="&lt;Startup&gt;" modified="2021-11-09 21:20:26" build="161206">
 					<value name="GuiArgs" type="string" data=""/>
-					<value name="Cmd1" type="string" data="&gt; -cur_console:f -cur_console:d:C:\laragon\www cmd /k &quot;%ConEmuDir%\..\init.bat&quot;"/>
+					<value name="Cmd1" type="string" data="&gt; -cur_console:f -cur_console:d:C:\Users\manuh\Documents\GitHub\tableauDeBordSerreDeSangatte\www\tableau_De_Bord\public cmd /k &quot;%ConEmuDir%\..\init.bat&quot;"/>
 						<value name="Active" type="long" data="1"/>
 					<value name="Count" type="long" data="1"/>
 				</key>
