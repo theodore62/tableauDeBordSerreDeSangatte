@@ -2360,3 +2360,42 @@ Version: '5.7.33'  socket: ''  port: 3306  MySQL Community Server (GPL)
 2021-11-11T11:24:04.639257Z 0 [Note] Shutting down plugin 'CSV'
 2021-11-11T11:24:04.648240Z 0 [Note] C:\Users\punky\Documents\GitHub\tableauDeBordSerreDeSangatte\bin\mysql\mysql-5.7.33-winx64\bin\mysqld: Shutdown complete
 
+2021-11-11T12:33:38.858346Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 2014355ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2021-11-21T11:43:19.141473Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2021-11-21T11:43:19.560831Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2021-11-21T11:43:19.560927Z 0 [Note] C:\Users\punky\Documents\GitHub\tableauDeBordSerreDeSangatte\bin\mysql\mysql-5.7.33-winx64\bin\mysqld (mysqld 5.7.33) starting as process 4652 ...
+2021-11-21T11:43:19.694352Z 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2021-11-21T11:43:19.695783Z 0 [Note] InnoDB: Uses event mutexes
+2021-11-21T11:43:19.696566Z 0 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2021-11-21T11:43:19.697942Z 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2021-11-21T11:43:19.707918Z 0 [Note] InnoDB: Number of pools: 1
+2021-11-21T11:43:19.709747Z 0 [Note] InnoDB: Not using CPU crc32 instructions
+2021-11-21T11:43:19.715811Z 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2021-11-21T11:43:19.819207Z 0 [Note] InnoDB: Completed initialization of buffer pool
+2021-11-21T11:43:20.403782Z 0 [Note] InnoDB: Highest supported file format is Barracuda.
+2021-11-21T11:43:20.410902Z 0 [Note] InnoDB: Log scan progressed past the checkpoint lsn 3504236
+2021-11-21T11:43:20.412362Z 0 [Note] InnoDB: Doing recovery: scanned up to log sequence number 3504245
+2021-11-21T11:43:20.413672Z 0 [Note] InnoDB: Database was not shutdown normally!
+2021-11-21T11:43:20.414645Z 0 [Note] InnoDB: Starting crash recovery.
+2021-11-21T11:43:21.275260Z 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2021-11-21T11:43:21.276857Z 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2021-11-21T11:43:21.280656Z 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2021-11-21T11:43:21.590921Z 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2021-11-21T11:43:21.613661Z 0 [Note] InnoDB: 96 redo rollback segment(s) found. 96 redo rollback segment(s) are active.
+2021-11-21T11:43:21.616085Z 0 [Note] InnoDB: 32 non-redo rollback segment(s) are active.
+2021-11-21T11:43:21.618719Z 0 [Note] InnoDB: Waiting for purge to start
+2021-11-21T11:43:21.688731Z 0 [Note] InnoDB: 5.7.33 started; log sequence number 3504245
+2021-11-21T11:43:21.693581Z 0 [Note] Plugin 'FEDERATED' is disabled.
+2021-11-21T11:43:21.725803Z 0 [Note] Found ca.pem, server-cert.pem and server-key.pem in data directory. Trying to enable SSL support using them.
+2021-11-21T11:43:21.728200Z 0 [Note] Skipping generation of SSL certificates as certificate files are present in data directory.
+2021-11-21T11:43:21.764212Z 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\punky\Documents\GitHub\tableauDeBordSerreDeSangatte\data\mysql\ib_buffer_pool
+2021-11-21T11:43:21.787903Z 0 [Note] InnoDB: Buffer pool(s) load completed at 211121 12:43:21
+2021-11-21T11:43:21.796244Z 0 [Warning] CA certificate ca.pem is self signed.
+2021-11-21T11:43:21.798118Z 0 [Note] Skipping generation of RSA key pair as key files are present in data directory.
+2021-11-21T11:43:21.801434Z 0 [Note] Server hostname (bind-address): '*'; port: 3306
+2021-11-21T11:43:21.803356Z 0 [Note] IPv6 is available.
+2021-11-21T11:43:21.804387Z 0 [Note]   - '::' resolves to '::';
+2021-11-21T11:43:21.805555Z 0 [Note] Server socket created on IP: '::'.
+2021-11-21T11:43:22.289198Z 0 [Note] Event Scheduler: Loaded 0 events
+2021-11-21T11:43:22.290748Z 0 [Note] C:\Users\punky\Documents\GitHub\tableauDeBordSerreDeSangatte\bin\mysql\mysql-5.7.33-winx64\bin\mysqld: ready for connections.
+Version: '5.7.33'  socket: ''  port: 3306  MySQL Community Server (GPL)

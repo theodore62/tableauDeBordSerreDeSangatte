@@ -11342,6 +11342,7 @@ h2 {
 }
 
 label {
+    font-size: 3em;
     font-family: "Font";
     color: white !important;
 }
@@ -11377,10 +11378,10 @@ h2,
     /* background-color: #3c6080 !important; */
 }
 
-input,
+/* input,
 select {
     opacity: 0.33;
-}
+} */
 
 #nom,
 #varieter,
@@ -11388,7 +11389,10 @@ select {
 #conditionnement,
 #prix,
 #categorie {
+    font-family: "Font";
     margin-left: 3em;
+    color: black !important;
+
 }
 
 .uk-subnav,
