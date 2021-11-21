@@ -1,2 +1,0 @@
-2021/10/28 19:27:30 [notice] 11444#11512: signal process started
-2021/10/28 19:27:30 [error] 11444#11512: CreateFile() "C:\Users\punky\Desktop\tableau_de_bord\bin\nginx\nginx-1.19.10/logs/nginx.pid" failed (2: Le fichier spécifié est introuvable)
